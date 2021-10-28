@@ -8,6 +8,7 @@ olika
 * Design
 
 * Färger.
+för att karaktären har sina egna färger så kommer jag att använda dem.
 * Typsnitt, serif eller sans serif. Font.
 * Visuella element (vad får din sida att stå ut).
 * Din logotyp (från digitalt skapande).
