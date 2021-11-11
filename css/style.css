@@ -3,6 +3,7 @@ body {
   padding: 0;
   margin: 0;
   scroll-behavior: smooth;
+  background-color: gray;
 }
 header {
   background-image: url(../ja.png);
@@ -12,7 +13,7 @@ header {
   background-size: contain;
   display: flex;
   align-items: center;
-  margin: 0 auto;
+  justify-content: center;
 }
 
 h1 {
@@ -28,18 +29,28 @@ h1 {
 
 main{
   display: flex;
+  background-color: white;
 }
 .imggg{
   border-radius: 1rem;
-  width: 15%;
-  height: 18%;
+  width: 50%;
+
+}
+
+.center{
+  margin: 0 auto;
+}
+.BildText{
+  display:block;
   margin-top: 1%;
   margin-left: 1%;
 }
-.mainn{
-  background-image: url(../back2.png);
-  background-repeat: repeat-y;
-  width: 20%;
-  height: 1000rem;
-  background-size: contain;
+
+.container {
+  position: relative;
+  max-width: 40rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  margin-right: auto;
+  margin-left: auto;
 }
