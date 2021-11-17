@@ -3,7 +3,7 @@ body {
   padding: 0;
   margin: 0;
   scroll-behavior: smooth;
-  background-color: gray;
+  background-color: #aeaeae;
 }
 header {
   background-image: url(../ja.png);
@@ -28,8 +28,10 @@ h1 {
 }
 
 main{
-  display: flex;
   background-color: white;
+}
+.start{
+  display: flex;
 }
 .imggg{
   border-radius: 1rem;
@@ -48,9 +50,12 @@ main{
 
 .container {
   position: relative;
-  max-width: 40rem;
+  max-width: 48rem;
   padding-right: 1rem;
   padding-left: 1rem;
   margin-right: auto;
   margin-left: auto;
+}
+h3{
+  color: #204793;
 }
