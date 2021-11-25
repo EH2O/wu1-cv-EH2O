@@ -25,9 +25,11 @@ Jag har också lärt mig vad att tänka på när man designar något t.ex. contr
 
 ## Negativa erfarenheter 
 
-Att använda postion. Det var funkade bara 1 ut av 10 gånger. 
+Att använda postion. Det funkade bara 1 ut av 10 gånger detta var däremot enkalt att fixa på 2 sätt antingen "trial and error" eller bara inte använda det vilket var jag gjorde. Samt att försöka gör navigationen centerarad för farmtiden kommer jag att fråga läraren om hur man kan göra detta.
 
-d
- 
+## Sammanfattning 
+I detta projekt har jag fått lära mig mer kunskaper om css och html samt fick jag lärar mig design processen om hur man faktiskt går ifrån en idea till en färdig "produkt". Slut produkten blev bra tycker jag för att den ser typ likadan ut som min "skiss" och jag gillar hur den ser ut. Däremot skulle den kunna bli bättre om jag hade lyckats centrea saker bättre samt få dem där jag ville istället för att dem bara är där. Det finns saker att göra med att fixa lite med färger samt positioner man skulle kunna utveckla. (Skulle också kunna fixa att navigationen faktiskt funkar). Det hade också varit möjligt att läga till en darkmod knapp som gör sidan darkmode för att många gillar darkmode. Skulle också kunna ha gjort en komplicerad design. 
+
+
  
 
