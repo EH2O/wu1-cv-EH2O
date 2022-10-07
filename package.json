@@ -1,0 +1,25 @@
+{
+  "name": "wu1-cv-eh2o",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EH2O/wu1-cv-EH2O.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EH2O/wu1-cv-EH2O/issues"
+  },
+  "homepage": "https://github.com/EH2O/wu1-cv-EH2O#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "sass": "^1.55.0"
+  }
+}

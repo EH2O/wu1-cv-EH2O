@@ -1,0 +1,43 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+    background-color: #aeaeae;
+}
+header{
+    background-image: url(../images/ja.png);
+    background-repeat: repeat-x;
+    width: 100%;
+    height: 5rem;
+    background-size: contain;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fefc26;
+    
+}
+.container {
+    position: relative;
+    max-width: 64rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+    padding-top: 3rem;
+  }
+  .start{
+    display: flex;
+    justify-content: space-around;
+  }
+  ul{
+    margin: 0;
+    padding: 2rem;
+  }
+  .Photo{
+    height: 60%;
+  }
+  .navi{
+    font-size: 30px;
+  }

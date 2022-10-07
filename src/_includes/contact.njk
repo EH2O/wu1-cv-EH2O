@@ -1,0 +1,9 @@
+<nav>
+    <ul>
+            {% for item in contact %}
+                <li>
+                    <a>{{item.name}}: {{item.info}}</a>
+                </li>
+                {% endfor %}
+    </ul>
+</nav>
