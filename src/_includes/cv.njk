@@ -1,0 +1,21 @@
+---
+layout: base.njk
+---
+<header>
+    <h1>{{Name}}</h1>
+</header>
+<main class = "container">
+
+    <div class = "start">
+        
+        <div class = "BildText">   
+            <img src={{image}} alt="Picture" class="Photo">
+            {%include "contact.njk" %}
+        
+        </div>
+        
+        {%include "navigation.njk" %}
+
+    </div>
+
+</main>
