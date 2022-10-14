@@ -4,7 +4,7 @@ Name: Banshee
 image: "images/Banshee-44.png"
 ---
 
-## <a id="PE">PROFESSIONAL EXPERIENCE</a> 
+## PROFESSIONAL EXPERIENCE
 
 ### 1. Enlisted in the military
 
@@ -30,11 +30,11 @@ image: "images/Banshee-44.png"
 
 5. Designing new weapons
 
-## <a id="ED">EDUCATION</a> 
+## EDUCATION
 
 Self taught
 
-## <a id="SK">SKILLS</a> 
+## SKILLS 
 
 1. Mastered the art of smithing
 
@@ -44,7 +44,7 @@ Self taught
 
 4. Creating and developing highly complex creations from scratch
 
-## <a id="LA">SPOKEN LANGUAGES</a> 
+## SPOKEN LANGUAGES
 
 1. English
 
@@ -64,7 +64,7 @@ Self taught
 
 9. Polish 
 
-## <a id="RE">REFERENCES</a> 
+## REFERENCES 
 
 1. Best friend - Cayde -6 
 
