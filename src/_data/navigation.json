@@ -1,22 +1,22 @@
 [
     {
-        "name": "PROFESSIONAL EXPERIENCE",
+        "name": "Professional experience",
         "tag": "professional-experience"
     },
     {
-        "name": "EDUCATION",
-        "tag": "ED"
+        "name": "Education",
+        "tag": "education"
     },
     {
-        "name": "SKILLS",
-        "tag": "SK"
+        "name": "Skills",
+        "tag": "skills"
     },
     {
-        "name": "LANGUAGES",
-        "tag": "LA"
+        "name": "Spoken languages",
+        "tag": "spoken-languages"
     },
     {
-        "name": "REFERENCES",
-        "tag": "RE"
+        "name": "References",
+        "tag": "references"
     }
 ]

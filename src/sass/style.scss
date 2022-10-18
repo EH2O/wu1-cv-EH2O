@@ -38,6 +38,9 @@ header{
   .start{
     display: flex;
     justify-content: space-around;
+    @media(max-width: 600px){
+      display: block;
+    }
   }
   ul{
     margin: 0;
@@ -45,15 +48,22 @@ header{
   }
   .Photo{
     height: 30rem;
-    width: auto;
+    width: 100%;
+    @media(max-width: 600px){
+      height: 20rem;
+      width: auto;
+    }
     border-radius: 2rem;
     
   }
   .navi{
     font-size: 30px;
+    @media(max-width: 600px){
+      font-size: 20px;
+    }
   }
 .logo {
   height: 2rem;
-  width: auto;
+  width: 5rem;
   padding-left: 1rem;
 }

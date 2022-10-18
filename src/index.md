@@ -1,7 +1,7 @@
 --- 
 layout: cv.njk
 Name: Banshee
-image: "images/Banshee-44.png"
+image: "images/Banshee-44.webp"
 ---
 
 ## PROFESSIONAL EXPERIENCE
