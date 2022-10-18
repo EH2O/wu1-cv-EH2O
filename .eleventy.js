@@ -1,7 +1,7 @@
 const markdownIt = require('markdown-it');
 const mila = require('markdown-it-link-attributes');
 const mia = require('markdown-it-attrs');
-
+const x = 0;
 
 module.exports = function (eleventyConfig) {
     eleventyConfig.addWatchTarget("./src/sass/");
@@ -18,7 +18,7 @@ module.exports = function (eleventyConfig) {
     })
         .use(markdownItAnchor, {
             permalink: markdownItAnchor.permalink.linkInsideHeader({
-                symbol: `<span class="anchor" aria-hidden="true"> </span>`,
+                symbol: `<span class="anchor" aria-hidden="true">#</span>`,
                 placement: 'before',
             }),
             level: [1, 2, 3, 4],
@@ -28,6 +28,7 @@ module.exports = function (eleventyConfig) {
                     .toLowerCase()
                     .replace(/[\s+~\/]/g, '-')
                     .replace(/[().`,%·'"!?¿:@*]/g, ''),
+                    
         })
         .use(mila, {
             pattern: /^https:/,
@@ -35,6 +36,7 @@ module.exports = function (eleventyConfig) {
                 target: '_blank',
                 rel: 'noopener',
             },
+
         })
         .use(mia, {
             allowedAttributes: ['id', 'class'],
