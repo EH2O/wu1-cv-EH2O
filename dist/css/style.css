@@ -147,6 +147,7 @@ header {
   margin-right: auto;
   margin-left: auto;
   background-color: white;
+  padding: 2rem;
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
@@ -168,7 +169,7 @@ ul {
 
 .Photo {
   height: 30rem;
-  width: 100%;
+  width: auto;
   border-radius: 2rem;
 }
 @media (max-width: 600px) {
